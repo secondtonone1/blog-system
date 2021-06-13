@@ -1,0 +1,13 @@
+{
+    "db": {
+        "user": "admin",
+        "host": "81.68.86.146",
+        "port": "27017",
+        "name": "blog"
+    },
+
+    "page": {
+        "size": 5,
+        "display": 5
+    }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "blog-system",
+  "version": "1.0.0",
+  "description": "前后一体化博客系统，前端采用bootstrap, jequery, 后端采用express, mongodb",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/secondtonone1/blog-system.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/secondtonone1/blog-system/issues"
+  },
+  "homepage": "https://github.com/secondtonone1/blog-system#readme"
+}
