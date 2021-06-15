@@ -15,5 +15,20 @@
   "bugs": {
     "url": "https://github.com/secondtonone1/blog-system/issues"
   },
-  "homepage": "https://github.com/secondtonone1/blog-system#readme"
+  "homepage": "https://github.com/secondtonone1/blog-system#readme",
+  "dependencies": {
+    "art-template": "^4.13.2",
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.19.0",
+    "config": "^3.3.6",
+    "dateformat": "^4.5.1",
+    "express": "^4.17.1",
+    "express-art-template": "^1.0.1",
+    "express-session": "^1.17.2",
+    "formidable": "^1.2.2",
+    "joi": "^17.4.0",
+    "mongoose": "^5.12.13",
+    "mongoose-sex-page": "^1.2.4",
+    "morgan": "^1.10.0"
+  }
 }
